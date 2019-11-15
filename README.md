@@ -10,8 +10,11 @@
 -e 结束页(2)
 
 ## 使用方法
-###1、爬取数据
+### 1、爬取数据
 ./main -s 1 -e 205(因为目前go中文网主题是205页)
+![Text image](https://note.youdao.com/yws/api/personal/file/WEB2ba8f49739cdcb5b874ca6e7f5ea9958?method=download&shareKey=203d1afca223b0e8e9930b4eb734a856)
 
-###2、存储数据
-./main -t(主要数据库）
+
+### 2、存储数据
+./main -t(注意数据库）
+![Text image](https://note.youdao.com/yws/api/personal/file/WEB20437591714b663e4ab525efb5e2ac15?method=download&shareKey=c042ca04524105fea3b2aa622b7df2e9)
