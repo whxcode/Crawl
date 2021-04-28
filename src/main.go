@@ -146,6 +146,7 @@ func reptile() {
 }
 
 func main() {
+	w
 	if(*t) {
 		save.DoWork()
 	} else {
