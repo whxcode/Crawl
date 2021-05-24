@@ -9,3 +9,4 @@ create table ars(
   fabulous varchar(20) not null default '0' comment '点赞量',
   comment_quantity varchar(20) not null default '0' comment '评论量'
 ) charset utf8mb4;
+123123
